@@ -97,9 +97,9 @@ namespace motor {
      * The user defines the motor rotation direction.
      */
     export enum Dir {
-        //% blockId="CW" block="CW"
+        //% blockId="CW" block="FW"
         CW = 1,
-        //% blockId="CCW" block="CCW"
+        //% blockId="CCW" block="BK"
         CCW = -1,
     }
 
